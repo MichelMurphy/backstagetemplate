@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: michel-template
+  name: micro-front-end-template
   title: Micro Front End Application
   description: scaffolder for an micro front End application
 spec:
