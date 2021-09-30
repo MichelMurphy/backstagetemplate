@@ -3,8 +3,8 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: michel-template
-  title: Template for Michel Test
-  description: scaffolder v1beta2 template demo
+  title: Experience Application
+  description: scaffolder for an experience application
 spec:
   owner: backstage/techdocs-core
   type: service
