@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: michel-template
+  name: experience-template
   title: Experience Application
   description: scaffolder for an experience application
 spec:
